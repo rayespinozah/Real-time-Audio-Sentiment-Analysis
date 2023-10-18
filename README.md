@@ -6,7 +6,9 @@ Nowadays, gaining a quick understanding of human behavior through emotions and o
 With cross-modal interaction and AI (tools and pre-trained models in NLP), we can analyze large audio data in real-time, such as recorded conversations, customer service calls, or voice recordings, in order to identify and categorize emotions (from positive and neutral to sad and angry.
 
 
-![Arquitecture](https://github.com/rayespinozah/Real-time-Audio-Sentiment-Analysis/assets/92163016/d919ab79-ba31-4489-a645-272426906c9d)
+
+![Arquitecture_W](https://github.com/rayespinozah/Real-time-Audio-Sentiment-Analysis/assets/92163016/a37ad0ee-0033-4407-9364-e585d9a30c45)
+
 
 Project details:
 I utilized a pre-trained model called Whisper, developed by OpenAI, which incorporates 680k hours of multilingual and multitask data from various websites.
